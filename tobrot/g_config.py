@@ -16,7 +16,7 @@ class Config(Config):
     RCLONE_CONFIG = """
 [DRIVE]
 type = drive
-client_id = 28dslkgjsdl-fill-your-details-apps.googleusercontent.com
+client_id = 16f7d4c51fc2d5a550a17e55bdf0b3d7
 client_secret = 6Tib48-fill-your-details-KuXXDX-eWgnRBYc
 scope = drive
 root_folder_id =
